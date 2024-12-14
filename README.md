@@ -10,8 +10,8 @@ Determine the top 10 most profitable films.
 Data Wrangling
 The data was loaded into a Pandas DataFrame for analysis. The dataset contains the following features:
 
-# Feature	Description
-id	A unique identifier for each movie
+## Feature	Description
+# id	A unique identifier for each movie
 imdb_id	A unique identifier for each movie on IMDB
 cast	The names of the lead and supporting actors
 Director	The director of the movie
