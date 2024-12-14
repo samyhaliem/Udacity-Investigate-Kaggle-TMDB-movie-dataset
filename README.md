@@ -1,4 +1,4 @@
-## Investigate a Movie Dataset
+# Investigate a Movie Dataset
 # Introduction
 This project is an analysis of a movie dataset from The Movie Database (TMDb). The dataset contains information on over 10,000 movies, including details such as user ratings, revenue, and budget.
 
@@ -11,8 +11,8 @@ Data Wrangling
 The data was loaded into a Pandas DataFrame for analysis. The dataset contains the following features:
 
 # Feature	Description
-## id	A unique identifier for each movie
-## imdb_id	A unique identifier for each movie on IMDB
+- id	A unique identifier for each movie
+- imdb_id	A unique identifier for each movie on IMDB
 ## cast	The names of the lead and supporting actors
 ## Director	The director of the movie
 ## budget	The budget for the movie
